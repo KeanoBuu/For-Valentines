@@ -46,7 +46,7 @@ function generateMessage(noCount) {
     "Sure kaba diyan?",
     "WAG MO NAMAN AKONG IPAUBAYA KAY OTLUM AT DIWATA :(",
     "MY HEART IS NOT HEARTING ANYMORE ITS HEURTING NA",
-    "PORKET MAS MASARAP MGA KOREANO MO"
+    "PORKET MAS MASARAP MGA KOREANO MO",
     "YES. KALA MO AH",
   ];
 
