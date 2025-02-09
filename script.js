@@ -43,9 +43,10 @@ function resizeYesButton() {
 function generateMessage(noCount) {
   const messages = [
     "No",
-    "sure kaba diyan?",
-    "wag mo naman ako ibigay kay diwata at otlum :(",
-    "my heart is not hearting anymore, its heurting na",
+    "Sure kaba diyan?",
+    "WAG MO NAMAN AKONG IPAUBAYA KAY OTLUM AT DIWATA :(",
+    "MY HEART IS NOT HEARTING ANYMORE ITS HEURTING NA",
+    "PORKET MAS MASARAP MGA KOREANO MO"
     "YES. KALA MO AH",
   ];
 
